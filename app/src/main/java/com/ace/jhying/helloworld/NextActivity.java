@@ -12,6 +12,7 @@ public class NextActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_next);
+        //add some notice for test
     }
 
 
